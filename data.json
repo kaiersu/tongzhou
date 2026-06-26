@@ -1,0 +1,314 @@
+﻿{"Version":"V10.6.0","Type":1,"ObjItems":[
+        {"Type":30,"ObjID":48849431,"ParentID":17990678,"SrvID":"4098483412502968910","tmModify":"2026/06/26 14:10:49","Object":
+            {"Name":"10x边界站","Type":30,"ObjectDetail":
+                {"Child":10,"LoadOk":1,"SaveMerge":0,"Group":0,"AutoLoad":1,"ShowLevel":33,"ShowLevelMax":0,"Share":0,"ReadOnly":0,"NotHotId":0,"Bind":0,"BindCheck":0,"Link":0,"LinkAutoCheck":0,"ChildiOverlay":0,"LineClr":0,"LineAlpha":0,"LineType":0,"LineWid":0,"LinkUrl":"","Relate":0,"ObjChildren":[
+                    {"Type":7,"SrvID":"8769681026684735787","ObjID":1133688920,"tmModify":"2026/06/18 11:29:09","ParentID":48849431,"Object":
+                        {"Name":"1.东郊森林公园通道边界","Type":7,"Comment":"通州区葛渠村182号，葛渠村委会办公楼顶","ObjectDetail":
+                            {"Lat":40.01279834,"Lng":116.64119393,"Gcj02":0,"Obj3dView":
+                                {"ViewLng":0.00000000,"ViewLat":0.00000000,"RotateX":0.00000000,"RotateZ":0.00000000,"EyeToView":0,"Alt":0,"AltType":0,"ToGround":0,"Order":0,"LineWid":0,"AltFloat":0,"RelateModel":0,"LineClr":0,"Gcj02":1},
+                                    "Altitude":0.00000000,"EditMode":0,"OverlayIdx":0,"TxtType":1,"ShowLevel":1,"ShowLevelMax":0,"TimeUncertain":0,"SignEvent":
+                                {"Radius":0,"ShowClr":0
+                                },"Time":"2026/03/20 14:29:54","SignPic":
+                                {"SignPic":8,"AlignFlag":0,"SignClr":0,"PicScale":0,"SignPicNum":0,"SignPicNumOffx":0,"SignPicNumOffy":0,"SignPicNumClr":0,"SignPicNumSize":0
+                                },"TxtShowSta":0,"TxtShowStaSet":0
+                        }
+                    }
+                    }
+                    ,{"Type":7,"SrvID":"5836781209704267439","ObjID":1870573949,"tmModify":"2026/06/18 11:33:22","ParentID":48849431,"Object":
+                        {"Name":"2.翟里村辖区边界站","Type":7,"Comment":"翟里社区卫生服务站2026-04-28 17:14:24","ObjectDetail":
+                            {"Lat":39.99591336,"Lng":116.74239254,"Gcj02":0,"Obj3dView":
+                                {"ViewLng":0.00000000,"ViewLat":0.00000000,"RotateX":0.00000000,"RotateZ":0.00000000,"EyeToView":0,"Alt":0,"AltType":0,"ToGround":0,"Order":0,"LineWid":0,"AltFloat":0,"RelateModel":0,"LineClr":0,"Gcj02":1},
+                                    "Altitude":0.00000000,"EditMode":0,"OverlayIdx":0,"TxtType":1,"ShowLevel":1,"ShowLevelMax":0,"TimeUncertain":0,"SignEvent":
+                                {"Radius":0,"ShowClr":0
+                                },"Time":"2026/04/28 17:14:24","SignPic":
+                                {"SignPic":6,"AlignFlag":0,"SignClr":0,"PicScale":0,"SignPicNum":0,"SignPicNumOffx":0,"SignPicNumOffy":0,"SignPicNumClr":0,"SignPicNumSize":0
+                                },"TxtShowSta":0,"TxtShowStaSet":0
+                        }
+                    }
+                    }
+                    ,{"Type":7,"SrvID":"5922288620506405349","ObjID":2111278117,"tmModify":"2026/06/18 11:26:01","ParentID":48849431,"Object":
+                        {"Name":"3.武疃村辖区边界站","Type":7,"Comment":"北京市通州区武瞳村","ObjectDetail":
+                            {"Lat":39.85887261,"Lng":116.82055430,"Gcj02":0,"Obj3dView":
+                                {"ViewLng":0.00000000,"ViewLat":0.00000000,"RotateX":0.00000000,"RotateZ":0.00000000,"EyeToView":0,"Alt":0,"AltType":0,"ToGround":0,"Order":0,"LineWid":0,"AltFloat":0,"RelateModel":0,"LineClr":0,"Gcj02":1},
+                                    "Altitude":0.00000000,"EditMode":0,"OverlayIdx":0,"TxtType":1,"ShowLevel":1,"ShowLevelMax":0,"TimeUncertain":0,"SignEvent":
+                                {"Radius":0,"ShowClr":0
+                                },"SignPic":
+                                {"SignPic":4,"AlignFlag":0,"SignClr":0,"PicScale":0,"SignPicNum":0,"SignPicNumOffx":0,"SignPicNumOffy":0,"SignPicNumClr":0,"SignPicNumSize":0
+                                },"TxtShowSta":0,"TxtShowStaSet":0
+                        }
+                    }
+                    }
+                    ,{"Type":7,"SrvID":"5213844205598722198","ObjID":1046754085,"tmModify":"2026/06/18 11:26:47","ParentID":48849431,"Object":
+                        {"Name":"4.尹家河村通道边界站","Type":7,"Comment":"北京市通州区黄赵路与西尹路交叉路口往东约70米 尹家河村委会楼顶","ObjectDetail":
+                            {"Lat":39.81864277,"Lng":116.91743673,"Gcj02":0,"Obj3dView":
+                                {"ViewLng":0.00000000,"ViewLat":0.00000000,"RotateX":0.00000000,"RotateZ":0.00000000,"EyeToView":0,"Alt":0,"AltType":0,"ToGround":0,"Order":0,"LineWid":0,"AltFloat":0,"RelateModel":0,"LineClr":0,"Gcj02":1},
+                                    "Altitude":0.00000000,"EditMode":0,"OverlayIdx":0,"TxtType":1,"ShowLevel":1,"ShowLevelMax":0,"TimeUncertain":0,"SignEvent":
+                                {"Radius":0,"ShowClr":0
+                                },"SignPic":
+                                {"SignPic":6,"AlignFlag":0,"SignClr":0,"PicScale":0,"SignPicNum":0,"SignPicNumOffx":0,"SignPicNumOffy":0,"SignPicNumClr":0,"SignPicNumSize":0
+                                },"TxtShowSta":0,"TxtShowStaSet":0
+                        }
+                    }
+                    }
+                    ,{"Type":7,"SrvID":"4573288591667538333","ObjID":908399650,"tmModify":"2026/06/18 11:27:08","ParentID":48849431,"Object":
+                        {"Name":"5.辛集村辖区边界站","Type":7,"Comment":"北京市通州区辛集村村民委员会","ObjectDetail":
+                            {"Lat":39.77379315,"Lng":116.90149582,"Gcj02":0,"Obj3dView":
+                                {"ViewLng":0.00000000,"ViewLat":0.00000000,"RotateX":0.00000000,"RotateZ":0.00000000,"EyeToView":0,"Alt":0,"AltType":0,"ToGround":0,"Order":0,"LineWid":0,"AltFloat":0,"RelateModel":0,"LineClr":0,"Gcj02":1},
+                                    "Altitude":0.00000000,"EditMode":0,"OverlayIdx":0,"TxtType":1,"ShowLevel":1,"ShowLevelMax":0,"TimeUncertain":0,"SignEvent":
+                                {"Radius":0,"ShowClr":0
+                                },"Time":"2026/04/28 13:13:32","SignPic":
+                                {"SignPic":6,"AlignFlag":0,"SignClr":0,"PicScale":0,"SignPicNum":0,"SignPicNumOffx":0,"SignPicNumOffy":0,"SignPicNumClr":0,"SignPicNumSize":0
+                                },"TxtShowSta":0,"TxtShowStaSet":0
+                        }
+                    }
+                    }
+                    ,{"Type":7,"SrvID":"7359436704937627165","ObjID":1097007550,"tmModify":"2026/06/18 11:27:19","ParentID":48849431,"Object":
+                        {"Name":"6.马合店村辖区边界站","Type":7,"Comment":"北京市通州区马合店村村民委员会后院","ObjectDetail":
+                            {"Lat":39.67871927,"Lng":116.84804857,"Gcj02":0,"Obj3dView":
+                                {"ViewLng":0.00000000,"ViewLat":0.00000000,"RotateX":0.00000000,"RotateZ":0.00000000,"EyeToView":0,"Alt":0,"AltType":0,"ToGround":0,"Order":0,"LineWid":0,"AltFloat":0,"RelateModel":0,"LineClr":0,"Gcj02":1},
+                                    "Altitude":0.00000000,"EditMode":0,"OverlayIdx":0,"TxtType":1,"ShowLevel":1,"ShowLevelMax":0,"TimeUncertain":0,"SignEvent":
+                                {"Radius":0,"ShowClr":0
+                                },"Time":"2026/03/20 14:38:17","SignPic":
+                                {"SignPic":6,"AlignFlag":0,"SignClr":0,"PicScale":0,"SignPicNum":0,"SignPicNumOffx":0,"SignPicNumOffy":0,"SignPicNumClr":0,"SignPicNumSize":0
+                                },"TxtShowSta":0,"TxtShowStaSet":0
+                        }
+                    }
+                    }
+                    ,{"Type":7,"SrvID":"5305837514753320983","ObjID":741709474,"tmModify":"2026/06/18 11:27:25","ParentID":48849431,"Object":
+                        {"Name":"7.小甸屯辖区边界站","Type":7,"Comment":"北京市小甸屯综合检查站 通州区环保检查点","ObjectDetail":
+                            {"Lat":39.59494061,"Lng":116.77880040,"Gcj02":0,"Obj3dView":
+                                {"ViewLng":0.00000000,"ViewLat":0.00000000,"RotateX":0.00000000,"RotateZ":0.00000000,"EyeToView":0,"Alt":0,"AltType":0,"ToGround":0,"Order":0,"LineWid":0,"AltFloat":0,"RelateModel":0,"LineClr":0,"Gcj02":1},
+                                    "Altitude":0.00000000,"EditMode":0,"OverlayIdx":0,"TxtType":1,"ShowLevel":1,"ShowLevelMax":0,"TimeUncertain":0,"SignEvent":
+                                {"Radius":0,"ShowClr":0
+                                },"Time":"2026/04/28 14:34:31","SignPic":
+                                {"SignPic":6,"AlignFlag":0,"SignClr":0,"PicScale":0,"SignPicNum":0,"SignPicNumOffx":0,"SignPicNumOffy":0,"SignPicNumClr":0,"SignPicNumSize":0
+                                },"TxtShowSta":0,"TxtShowStaSet":0
+                        }
+                    }
+                    }
+                    ,{"Type":7,"SrvID":"5583731889521714641","ObjID":529303960,"tmModify":"2026/06/18 11:28:44","ParentID":48849431,"Object":
+                        {"Name":"8.于家务辖区边界站","Type":7,"Comment":"北京市通州区崔各庄路 于家务乡生态环境事务中心","ObjectDetail":
+                            {"Lat":39.69110950,"Lng":116.71456423,"Gcj02":0,"Obj3dView":
+                                {"ViewLng":0.00000000,"ViewLat":0.00000000,"RotateX":0.00000000,"RotateZ":0.00000000,"EyeToView":0,"Alt":0,"AltType":0,"ToGround":0,"Order":0,"LineWid":0,"AltFloat":0,"RelateModel":0,"LineClr":0,"Gcj02":1},
+                                    "Altitude":0.00000000,"EditMode":0,"OverlayIdx":0,"TxtType":1,"ShowLevel":1,"ShowLevelMax":0,"TimeUncertain":0,"SignEvent":
+                                {"Radius":0,"ShowClr":0
+                                },"SignPic":
+                                {"SignPic":4,"AlignFlag":0,"SignClr":0,"PicScale":0,"SignPicNum":0,"SignPicNumOffx":0,"SignPicNumOffy":0,"SignPicNumClr":0,"SignPicNumSize":0
+                                },"TxtShowSta":0,"TxtShowStaSet":0
+                        }
+                    }
+                    }
+                    ,{"Type":7,"SrvID":"6093717818277043465","ObjID":277422561,"tmModify":"2026/06/18 11:28:44","ParentID":48849431,"Object":
+                        {"Name":"9.马驹桥通道边界站","Type":7,"Comment":"马驹桥镇现有空气站","ObjectDetail":
+                            {"Lat":39.76058110,"Lng":116.53796375,"Gcj02":0,"Obj3dView":
+                                {"ViewLng":0.00000000,"ViewLat":0.00000000,"RotateX":0.00000000,"RotateZ":0.00000000,"EyeToView":0,"Alt":0,"AltType":0,"ToGround":0,"Order":0,"LineWid":0,"AltFloat":0,"RelateModel":0,"LineClr":0,"Gcj02":1},
+                                    "Altitude":0.00000000,"EditMode":0,"OverlayIdx":0,"TxtType":1,"ShowLevel":1,"ShowLevelMax":0,"TimeUncertain":0,"SignEvent":
+                                {"Radius":0,"ShowClr":0
+                                },"Time":"2026/03/20 14:42:41","SignPic":
+                                {"SignPic":6,"AlignFlag":0,"SignClr":0,"PicScale":0,"SignPicNum":0,"SignPicNumOffx":0,"SignPicNumOffy":0,"SignPicNumClr":0,"SignPicNumSize":0
+                                },"TxtShowSta":0,"TxtShowStaSet":0
+                        }
+                    }
+                    }
+                    ,{"Type":7,"SrvID":"7291037118265523739","ObjID":1547170441,"tmModify":"2026/06/18 11:28:54","ParentID":48849431,"Object":
+                        {"Name":"10.文景辖区边界站","Type":7,"Comment":"北京市通州区 文景街道办事处  010-80579230","ObjectDetail":
+                            {"Lat":39.85167082,"Lng":116.64795565,"Gcj02":0,"Obj3dView":
+                                {"ViewLng":0.00000000,"ViewLat":0.00000000,"RotateX":0.00000000,"RotateZ":0.00000000,"EyeToView":0,"Alt":0,"AltType":0,"ToGround":0,"Order":0,"LineWid":0,"AltFloat":0,"RelateModel":0,"LineClr":0,"Gcj02":1},
+                                    "Altitude":0.00000000,"EditMode":0,"OverlayIdx":0,"TxtType":1,"ShowLevel":1,"ShowLevelMax":0,"TimeUncertain":0,"SignEvent":
+                                {"Radius":0,"ShowClr":0
+                                },"SignPic":
+                                {"SignPic":8,"AlignFlag":0,"SignClr":0,"PicScale":0,"SignPicNum":0,"SignPicNumOffx":0,"SignPicNumOffy":0,"SignPicNumClr":0,"SignPicNumSize":0
+                                },"TxtShowSta":0,"TxtShowStaSet":0
+                        }
+                    }
+                    }]
+                }
+            }
+        }
+        ,{"Type":30,"ObjID":1622890164,"ParentID":17990678,"SrvID":"4756803407013518186","tmModify":"2026/06/26 14:12:19","Object":
+            {"Name":"15x河道站","Type":30,"ObjectDetail":
+                {"Child":15,"LoadOk":1,"SaveMerge":0,"Group":0,"AutoLoad":1,"ShowLevel":1,"ShowLevelMax":0,"Share":0,"ReadOnly":0,"NotHotId":0,"Bind":0,"BindCheck":0,"Link":0,"LinkAutoCheck":0,"ChildiOverlay":0,"LineClr":0,"LineAlpha":0,"LineType":0,"LineWid":0,"LinkUrl":"","Relate":0,"ObjChildren":[
+                    {"Type":7,"SrvID":"958235507643680689","ObjID":2025073823,"tmModify":"2026/06/18 10:53:08","ParentID":1622890164,"Object":
+                        {"Name":"1.东郊湿地公园北园","Type":7,"Comment":"沿用原“东郊湿地公园北园”点位","ObjectDetail":
+                            {"Lat":39.98947000,"Lng":116.66499000,"Gcj02":0,"Obj3dView":
+                                {"ViewLng":0.00000000,"ViewLat":0.00000000,"RotateX":0.00000000,"RotateZ":0.00000000,"EyeToView":0,"Alt":0,"AltType":0,"ToGround":0,"Order":0,"LineWid":0,"AltFloat":0,"RelateModel":0,"LineClr":0,"Gcj02":1},
+                                    "Altitude":0.00000000,"EditMode":0,"OverlayIdx":0,"TxtType":1,"ShowLevel":1,"ShowLevelMax":0,"TimeUncertain":0,"SignEvent":
+                                {"Radius":0,"ShowClr":0
+                                },"SignPic":
+                                {"SignPic":6,"AlignFlag":2,"SignClr":0,"PicScale":0,"SignPicNum":0,"SignPicNumOffx":0,"SignPicNumOffy":0,"SignPicNumClr":0,"SignPicNumSize":0
+                                },"TxtShowSta":0,"TxtShowStaSet":0
+                        }
+                    }
+                    }
+                    ,{"Type":7,"SrvID":"1248141451131146270","ObjID":839480088,"tmModify":"2026/06/18 10:54:19","ParentID":1622890164,"Object":
+                        {"Name":"2.尹各庄村委会","Type":7,"Comment":"北京市通州区宋庄镇尹堤路北京明星双语幼儿园东南","ObjectDetail":
+                            {"Lat":39.98054233,"Lng":116.64895436,"Gcj02":0,"Obj3dView":
+                                {"ViewLng":0.00000000,"ViewLat":0.00000000,"RotateX":0.00000000,"RotateZ":0.00000000,"EyeToView":0,"Alt":0,"AltType":0,"ToGround":0,"Order":0,"LineWid":0,"AltFloat":0,"RelateModel":0,"LineClr":0,"Gcj02":1},
+                                    "Altitude":0.00000000,"EditMode":0,"OverlayIdx":0,"TxtType":1,"ShowLevel":1,"ShowLevelMax":0,"TimeUncertain":0,"SignEvent":
+                                {"Radius":0,"ShowClr":0
+                                },"Time":"2026/04/22 15:28:56","SignPic":
+                                {"SignPic":6,"AlignFlag":0,"SignClr":0,"PicScale":0,"SignPicNum":0,"SignPicNumOffx":0,"SignPicNumOffy":0,"SignPicNumClr":0,"SignPicNumSize":0
+                                },"TxtShowSta":0,"TxtShowStaSet":0
+                        }
+                    }
+                    }
+                    ,{"Type":7,"SrvID":"3572357958629384896","ObjID":1640313263,"tmModify":"2026/06/18 10:54:28","ParentID":1622890164,"Object":
+                        {"Name":"3.邓家窑桥","Type":7,"Comment":"","ObjectDetail":
+                            {"Lat":39.93503100,"Lng":116.64530300,"Gcj02":0,"Obj3dView":
+                                {"ViewLng":0.00000000,"ViewLat":0.00000000,"RotateX":0.00000000,"RotateZ":0.00000000,"EyeToView":0,"Alt":0,"AltType":0,"ToGround":0,"Order":0,"LineWid":0,"AltFloat":0,"RelateModel":0,"LineClr":0,"Gcj02":1},
+                                    "Altitude":0.00000000,"EditMode":0,"OverlayIdx":0,"TxtType":1,"ShowLevel":1,"ShowLevelMax":0,"TimeUncertain":0,"SignEvent":
+                                {"Radius":0,"ShowClr":0
+                                },"Time":"2026/03/18 09:35:07","SignPic":
+                                {"SignPic":6,"AlignFlag":0,"SignClr":0,"PicScale":0,"SignPicNum":0,"SignPicNumOffx":0,"SignPicNumOffy":0,"SignPicNumClr":0,"SignPicNumSize":0
+                                },"TxtShowSta":0,"TxtShowStaSet":0
+                        }
+                    }
+                    }
+                    ,{"Type":7,"SrvID":"7827662321111449355","ObjID":852438025,"tmModify":"2026/06/18 10:56:01","ParentID":1622890164,"Object":
+                        {"Name":"4.范庄村委会","Type":7,"Comment":"","ObjectDetail":
+                            {"Lat":39.93655883,"Lng":116.65636422,"Gcj02":0,"Obj3dView":
+                                {"ViewLng":0.00000000,"ViewLat":0.00000000,"RotateX":0.00000000,"RotateZ":0.00000000,"EyeToView":0,"Alt":0,"AltType":0,"ToGround":0,"Order":0,"LineWid":0,"AltFloat":0,"RelateModel":0,"LineClr":0,"Gcj02":1},
+                                    "Altitude":0.00000000,"EditMode":0,"OverlayIdx":0,"TxtType":1,"ShowLevel":1,"ShowLevelMax":0,"TimeUncertain":0,"SignEvent":
+                                {"Radius":0,"ShowClr":0
+                                },"Time":"2026/04/24 11:11:46","SignPic":
+                                {"SignPic":6,"AlignFlag":0,"SignClr":0,"PicScale":0,"SignPicNum":0,"SignPicNumOffx":0,"SignPicNumOffy":0,"SignPicNumClr":0,"SignPicNumSize":0
+                                },"TxtShowSta":0,"TxtShowStaSet":0
+                        }
+                    }
+                    }
+                    ,{"Type":7,"SrvID":"718022496622191547","ObjID":1580768746,"tmModify":"2026/06/18 10:55:54","ParentID":1622890164,"Object":
+                        {"Name":"5.北人家园","Type":7,"Comment":"北京市通州区新华东街三区","ObjectDetail":
+                            {"Lat":39.90046952,"Lng":116.66858172,"Gcj02":0,"Obj3dView":
+                                {"ViewLng":0.00000000,"ViewLat":0.00000000,"RotateX":0.00000000,"RotateZ":0.00000000,"EyeToView":0,"Alt":0,"AltType":0,"ToGround":0,"Order":0,"LineWid":0,"AltFloat":0,"RelateModel":0,"LineClr":0,"Gcj02":1},
+                                    "Altitude":0.00000000,"EditMode":0,"OverlayIdx":0,"TxtType":1,"ShowLevel":1,"ShowLevelMax":0,"TimeUncertain":0,"SignEvent":
+                                {"Radius":0,"ShowClr":0
+                                },"SignPic":
+                                {"SignPic":4,"AlignFlag":0,"SignClr":0,"PicScale":0,"SignPicNum":0,"SignPicNumOffx":0,"SignPicNumOffy":0,"SignPicNumClr":0,"SignPicNumSize":0
+                                },"TxtShowSta":0,"TxtShowStaSet":0
+                        }
+                    }
+                    }
+                    ,{"Type":7,"SrvID":"7030613496822588413","ObjID":139152478,"tmModify":"2026/06/18 10:58:13","ParentID":1622890164,"Object":
+                        {"Name":"6.玉桥街道办","Type":7,"Comment":"北京市通州区玉桥北里","ObjectDetail":
+                            {"Lat":39.89260239,"Lng":116.67613621,"Gcj02":0,"Obj3dView":
+                                {"ViewLng":0.00000000,"ViewLat":0.00000000,"RotateX":0.00000000,"RotateZ":0.00000000,"EyeToView":0,"Alt":0,"AltType":0,"ToGround":0,"Order":0,"LineWid":0,"AltFloat":0,"RelateModel":0,"LineClr":0,"Gcj02":1},
+                                    "Altitude":0.00000000,"EditMode":0,"OverlayIdx":0,"TxtType":1,"ShowLevel":1,"ShowLevelMax":0,"TimeUncertain":0,"SignEvent":
+                                {"Radius":0,"ShowClr":0
+                                },"SignPic":
+                                {"SignPic":4,"AlignFlag":0,"SignClr":0,"PicScale":0,"SignPicNum":0,"SignPicNumOffx":0,"SignPicNumOffy":0,"SignPicNumClr":0,"SignPicNumSize":0
+                                },"TxtShowSta":0,"TxtShowStaSet":0
+                        }
+                    }
+                    }
+                    ,{"Type":7,"SrvID":"5350768026031372958","ObjID":955711458,"tmModify":"2026/06/18 10:59:45","ParentID":1622890164,"Object":
+                        {"Name":"7.后北营家园","Type":7,"Comment":"","ObjectDetail":
+                            {"Lat":39.91094655,"Lng":116.73322104,"Gcj02":0,"Obj3dView":
+                                {"ViewLng":0.00000000,"ViewLat":0.00000000,"RotateX":0.00000000,"RotateZ":0.00000000,"EyeToView":0,"Alt":0,"AltType":0,"ToGround":0,"Order":0,"LineWid":0,"AltFloat":0,"RelateModel":0,"LineClr":0,"Gcj02":1},
+                                    "Altitude":0.00000000,"EditMode":0,"OverlayIdx":0,"TxtType":1,"ShowLevel":1,"ShowLevelMax":0,"TimeUncertain":0,"SignEvent":
+                                {"Radius":0,"ShowClr":0
+                                },"Time":"2026/06/18 10:59:05","SignPic":
+                                {"SignPic":4,"AlignFlag":0,"SignClr":0,"PicScale":0,"SignPicNum":0,"SignPicNumOffx":0,"SignPicNumOffy":0,"SignPicNumClr":0,"SignPicNumSize":0
+                                },"TxtShowSta":0,"TxtShowStaSet":0
+                        }
+                    }
+                    }
+                    ,{"Type":7,"SrvID":"155393164110355072","ObjID":186157251,"tmModify":"2026/06/26 14:16:22","ParentID":1622890164,"Object":
+                        {"Name":"8.齐善庄","Type":7,"Comment":"北京市通州区张家湾镇齐姚路","ObjectDetail":
+                            {"Lat":39.82526945,"Lng":116.69277044,"Gcj02":0,"Obj3dView":
+                                {"ViewLng":0.00000000,"ViewLat":0.00000000,"RotateX":0.00000000,"RotateZ":0.00000000,"EyeToView":0,"Alt":0,"AltType":0,"ToGround":0,"Order":0,"LineWid":0,"AltFloat":0,"RelateModel":0,"LineClr":0,"Gcj02":1},
+                                    "Altitude":0.00000000,"EditMode":0,"OverlayIdx":0,"TxtType":1,"ShowLevel":1,"ShowLevelMax":0,"TimeUncertain":0,"SignEvent":
+                                {"Radius":0,"ShowClr":0
+                                },"SignPic":
+                                {"SignPic":8,"AlignFlag":0,"SignClr":0,"PicScale":0,"SignPicNum":0,"SignPicNumOffx":0,"SignPicNumOffy":0,"SignPicNumClr":0,"SignPicNumSize":0
+                                },"TxtShowSta":0,"TxtShowStaSet":0
+                        }
+                    }
+                    }
+                    ,{"Type":7,"SrvID":"4810151646126216041","ObjID":255412128,"tmModify":"2026/06/18 11:10:45","ParentID":1622890164,"Object":
+                        {"Name":"9.天桥弯","Type":7,"Comment":"","ObjectDetail":
+                            {"Lat":39.90974000,"Lng":116.65584400,"Gcj02":0,"Obj3dView":
+                                {"ViewLng":0.00000000,"ViewLat":0.00000000,"RotateX":0.00000000,"RotateZ":0.00000000,"EyeToView":0,"Alt":0,"AltType":0,"ToGround":0,"Order":0,"LineWid":0,"AltFloat":0,"RelateModel":0,"LineClr":0,"Gcj02":1},
+                                    "Altitude":0.00000000,"EditMode":0,"OverlayIdx":0,"TxtType":1,"ShowLevel":1,"ShowLevelMax":0,"TimeUncertain":0,"SignEvent":
+                                {"Radius":0,"ShowClr":0
+                                },"Time":"2026/03/18 09:43:12","SignPic":
+                                {"SignPic":6,"AlignFlag":0,"SignClr":0,"PicScale":0,"SignPicNum":0,"SignPicNumOffx":0,"SignPicNumOffy":0,"SignPicNumClr":0,"SignPicNumSize":0
+                                },"TxtShowSta":0,"TxtShowStaSet":0
+                        }
+                    }
+                    }
+                    ,{"Type":7,"SrvID":"6434449407149151106","ObjID":1468251367,"tmModify":"2026/06/18 11:10:55","ParentID":1622890164,"Object":
+                        {"Name":"10.土坝码头","Type":7,"Comment":"","ObjectDetail":
+                            {"Lat":39.91640900,"Lng":116.67227800,"Gcj02":0,"Obj3dView":
+                                {"ViewLng":0.00000000,"ViewLat":0.00000000,"RotateX":0.00000000,"RotateZ":0.00000000,"EyeToView":0,"Alt":0,"AltType":0,"ToGround":0,"Order":0,"LineWid":0,"AltFloat":0,"RelateModel":0,"LineClr":0,"Gcj02":1},
+                                    "Altitude":0.00000000,"EditMode":0,"OverlayIdx":0,"TxtType":1,"ShowLevel":1,"ShowLevelMax":0,"TimeUncertain":0,"SignEvent":
+                                {"Radius":0,"ShowClr":0
+                                },"Time":"2026/03/18 09:38:48","SignPic":
+                                {"SignPic":6,"AlignFlag":0,"SignClr":0,"PicScale":0,"SignPicNum":0,"SignPicNumOffx":0,"SignPicNumOffy":0,"SignPicNumClr":0,"SignPicNumSize":0
+                                },"TxtShowSta":0,"TxtShowStaSet":0
+                        }
+                    }
+                    }
+                    ,{"Type":7,"SrvID":"5249000141741912622","ObjID":415393717,"tmModify":"2026/06/26 14:15:00","ParentID":1622890164,"Object":
+                        {"Name":"11.沙古堆","Type":7,"Comment":"沙古堆村委会","ObjectDetail":
+                            {"Lat":39.81811230,"Lng":116.79209232,"Gcj02":0,"Obj3dView":
+                                {"ViewLng":0.00000000,"ViewLat":0.00000000,"RotateX":0.00000000,"RotateZ":0.00000000,"EyeToView":0,"Alt":0,"AltType":0,"ToGround":0,"Order":0,"LineWid":0,"AltFloat":0,"RelateModel":0,"LineClr":0,"Gcj02":1},
+                                    "Altitude":0.00000000,"EditMode":0,"OverlayIdx":0,"TxtType":1,"ShowLevel":1,"ShowLevelMax":0,"TimeUncertain":0,"SignEvent":
+                                {"Radius":0,"ShowClr":0
+                                },"Time":"2026/04/23 15:42:57","SignPic":
+                                {"SignPic":8,"AlignFlag":0,"SignClr":0,"PicScale":0,"SignPicNum":0,"SignPicNumOffx":0,"SignPicNumOffy":0,"SignPicNumClr":0,"SignPicNumSize":0
+                                },"TxtShowSta":0,"TxtShowStaSet":0
+                        }
+                    }
+                    }
+                    ,{"Type":7,"SrvID":"1195837665605978204","ObjID":400617051,"tmModify":"2026/06/18 11:13:50","ParentID":1622890164,"Object":
+                        {"Name":"12.新城热力","Type":7,"Comment":"北京市通州区水仙东路20号","ObjectDetail":
+                            {"Lat":39.91727150,"Lng":116.68775758,"Gcj02":0,"Obj3dView":
+                                {"ViewLng":0.00000000,"ViewLat":0.00000000,"RotateX":0.00000000,"RotateZ":0.00000000,"EyeToView":0,"Alt":0,"AltType":0,"ToGround":0,"Order":0,"LineWid":0,"AltFloat":0,"RelateModel":0,"LineClr":0,"Gcj02":1},
+                                    "Altitude":0.00000000,"EditMode":0,"OverlayIdx":0,"TxtType":1,"ShowLevel":1,"ShowLevelMax":0,"TimeUncertain":0,"SignEvent":
+                                {"Radius":0,"ShowClr":0
+                                },"SignPic":
+                                {"SignPic":6,"AlignFlag":0,"SignClr":0,"PicScale":0,"SignPicNum":0,"SignPicNumOffx":0,"SignPicNumOffy":0,"SignPicNumClr":0,"SignPicNumSize":0
+                                },"TxtShowSta":0,"TxtShowStaSet":0
+                        }
+                    }
+                    }
+                    ,{"Type":7,"SrvID":"7281983693104281887","ObjID":1345334027,"tmModify":"2026/06/18 11:14:19","ParentID":1622890164,"Object":
+                        {"Name":"13.城市绿心公园","Type":7,"Comment":"现有点位","ObjectDetail":
+                            {"Lat":39.87809427,"Lng":116.72965050,"Gcj02":0,"Obj3dView":
+                                {"ViewLng":0.00000000,"ViewLat":0.00000000,"RotateX":0.00000000,"RotateZ":0.00000000,"EyeToView":0,"Alt":0,"AltType":0,"ToGround":0,"Order":0,"LineWid":0,"AltFloat":0,"RelateModel":0,"LineClr":0,"Gcj02":1},
+                                    "Altitude":0.00000000,"EditMode":0,"OverlayIdx":0,"TxtType":1,"ShowLevel":1,"ShowLevelMax":0,"TimeUncertain":0,"SignEvent":
+                                {"Radius":0,"ShowClr":0
+                                },"Time":"2026/03/20 17:01:24","SignPic":
+                                {"SignPic":6,"AlignFlag":0,"SignClr":0,"PicScale":0,"SignPicNum":0,"SignPicNumOffx":0,"SignPicNumOffy":0,"SignPicNumClr":0,"SignPicNumSize":0
+                                },"TxtShowSta":0,"TxtShowStaSet":0
+                        }
+                    }
+                    }
+                    ,{"Type":7,"SrvID":"8711966307536810650","ObjID":1755489602,"tmModify":"2026/06/18 11:17:57","ParentID":1622890164,"Object":
+                        {"Name":"14.环湖公园","Type":7,"Comment":"","ObjectDetail":
+                            {"Lat":39.84292984,"Lng":116.73303132,"Gcj02":0,"Obj3dView":
+                                {"ViewLng":0.00000000,"ViewLat":0.00000000,"RotateX":0.00000000,"RotateZ":0.00000000,"EyeToView":0,"Alt":0,"AltType":0,"ToGround":0,"Order":0,"LineWid":0,"AltFloat":0,"RelateModel":0,"LineClr":0,"Gcj02":1},
+                                    "Altitude":0.00000000,"EditMode":0,"OverlayIdx":0,"TxtType":1,"ShowLevel":1,"ShowLevelMax":0,"TimeUncertain":0,"SignEvent":
+                                {"Radius":0,"ShowClr":0
+                                },"Time":"2026/06/18 11:17:20","SignPic":
+                                {"SignPic":4,"AlignFlag":0,"SignClr":0,"PicScale":0,"SignPicNum":0,"SignPicNumOffx":0,"SignPicNumOffy":0,"SignPicNumClr":0,"SignPicNumSize":0
+                                },"TxtShowSta":0,"TxtShowStaSet":0
+                        }
+                    }
+                    }
+                    ,{"Type":7,"SrvID":"3524760969888114121","ObjID":109153648,"tmModify":"2026/06/18 11:19:59","ParentID":1622890164,"Object":
+                        {"Name":"15.漷县中学","Type":7,"Comment":"北京市通州区漷县镇漷兴一街附近","ObjectDetail":
+                            {"Lat":39.77335952,"Lng":116.78604960,"Gcj02":0,"Obj3dView":
+                                {"ViewLng":0.00000000,"ViewLat":0.00000000,"RotateX":0.00000000,"RotateZ":0.00000000,"EyeToView":0,"Alt":0,"AltType":0,"ToGround":0,"Order":0,"LineWid":0,"AltFloat":0,"RelateModel":0,"LineClr":0,"Gcj02":1},
+                                    "Altitude":0.00000000,"EditMode":0,"OverlayIdx":0,"TxtType":1,"ShowLevel":1,"ShowLevelMax":0,"TimeUncertain":0,"SignEvent":
+                                {"Radius":0,"ShowClr":0
+                                },"SignPic":
+                                {"SignPic":4,"AlignFlag":0,"SignClr":0,"PicScale":0,"SignPicNum":0,"SignPicNumOffx":0,"SignPicNumOffy":0,"SignPicNumClr":0,"SignPicNumSize":0
+                                },"TxtShowSta":0,"TxtShowStaSet":0
+                        }
+                    }
+                    }]
+                }
+            }
+        }]
+}
