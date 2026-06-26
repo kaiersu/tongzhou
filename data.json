@@ -1,15 +1,15 @@
-﻿{"Version":"V10.6.0","Type":1,"ObjItems":[
-        {"Type":30,"ObjID":48849431,"ParentID":17990678,"SrvID":"4098483412502968910","tmModify":"2026/06/26 14:10:49","Object":
+{"Version":"V10.6.2","Type":1,"ObjItems":[
+        {"Type":30,"ObjID":48849431,"ParentID":17990678,"SrvID":"4098483412502968910","tmModify":"2026/06/26 15:41:54","Object":
             {"Name":"10x边界站","Type":30,"ObjectDetail":
-                {"Child":10,"LoadOk":1,"SaveMerge":0,"Group":0,"AutoLoad":1,"ShowLevel":33,"ShowLevelMax":0,"Share":0,"ReadOnly":0,"NotHotId":0,"Bind":0,"BindCheck":0,"Link":0,"LinkAutoCheck":0,"ChildiOverlay":0,"LineClr":0,"LineAlpha":0,"LineType":0,"LineWid":0,"LinkUrl":"","Relate":0,"ObjChildren":[
-                    {"Type":7,"SrvID":"8769681026684735787","ObjID":1133688920,"tmModify":"2026/06/18 11:29:09","ParentID":48849431,"Object":
+                {"Child":10,"LoadOk":1,"SaveMerge":0,"Group":0,"AutoLoad":1,"ShowLevel":1,"ShowLevelMax":0,"Share":0,"ReadOnly":0,"NotHotId":0,"Bind":0,"BindCheck":0,"Link":0,"LinkAutoCheck":0,"ChildiOverlay":0,"LineClr":0,"LineAlpha":0,"LineType":0,"LineWid":0,"LinkUrl":"","Relate":0,"ObjChildren":[
+                    {"Type":7,"SrvID":"8769681026684735787","ObjID":1133688920,"tmModify":"2026/06/26 15:40:33","ParentID":48849431,"Object":
                         {"Name":"1.东郊森林公园通道边界","Type":7,"Comment":"通州区葛渠村182号，葛渠村委会办公楼顶","ObjectDetail":
                             {"Lat":40.01279834,"Lng":116.64119393,"Gcj02":0,"Obj3dView":
                                 {"ViewLng":0.00000000,"ViewLat":0.00000000,"RotateX":0.00000000,"RotateZ":0.00000000,"EyeToView":0,"Alt":0,"AltType":0,"ToGround":0,"Order":0,"LineWid":0,"AltFloat":0,"RelateModel":0,"LineClr":0,"Gcj02":1},
                                     "Altitude":0.00000000,"EditMode":0,"OverlayIdx":0,"TxtType":1,"ShowLevel":1,"ShowLevelMax":0,"TimeUncertain":0,"SignEvent":
                                 {"Radius":0,"ShowClr":0
                                 },"Time":"2026/03/20 14:29:54","SignPic":
-                                {"SignPic":8,"AlignFlag":0,"SignClr":0,"PicScale":0,"SignPicNum":0,"SignPicNumOffx":0,"SignPicNumOffy":0,"SignPicNumClr":0,"SignPicNumSize":0
+                                {"SignPic":6,"AlignFlag":0,"SignClr":0,"PicScale":0,"SignPicNum":0,"SignPicNumOffx":0,"SignPicNumOffy":0,"SignPicNumClr":0,"SignPicNumSize":0
                                 },"TxtShowSta":0,"TxtShowStaSet":0
                         }
                     }
@@ -38,14 +38,14 @@
                         }
                     }
                     }
-                    ,{"Type":7,"SrvID":"5213844205598722198","ObjID":1046754085,"tmModify":"2026/06/18 11:26:47","ParentID":48849431,"Object":
+                    ,{"Type":7,"SrvID":"5213844205598722198","ObjID":1046754085,"tmModify":"2026/06/26 15:40:46","ParentID":48849431,"Object":
                         {"Name":"4.尹家河村通道边界站","Type":7,"Comment":"北京市通州区黄赵路与西尹路交叉路口往东约70米 尹家河村委会楼顶","ObjectDetail":
                             {"Lat":39.81864277,"Lng":116.91743673,"Gcj02":0,"Obj3dView":
                                 {"ViewLng":0.00000000,"ViewLat":0.00000000,"RotateX":0.00000000,"RotateZ":0.00000000,"EyeToView":0,"Alt":0,"AltType":0,"ToGround":0,"Order":0,"LineWid":0,"AltFloat":0,"RelateModel":0,"LineClr":0,"Gcj02":1},
                                     "Altitude":0.00000000,"EditMode":0,"OverlayIdx":0,"TxtType":1,"ShowLevel":1,"ShowLevelMax":0,"TimeUncertain":0,"SignEvent":
                                 {"Radius":0,"ShowClr":0
                                 },"SignPic":
-                                {"SignPic":6,"AlignFlag":0,"SignClr":0,"PicScale":0,"SignPicNum":0,"SignPicNumOffx":0,"SignPicNumOffy":0,"SignPicNumClr":0,"SignPicNumSize":0
+                                {"SignPic":8,"AlignFlag":0,"SignClr":0,"PicScale":0,"SignPicNum":0,"SignPicNumOffx":0,"SignPicNumOffy":0,"SignPicNumClr":0,"SignPicNumSize":0
                                 },"TxtShowSta":0,"TxtShowStaSet":0
                         }
                     }
@@ -86,14 +86,14 @@
                         }
                     }
                     }
-                    ,{"Type":7,"SrvID":"5583731889521714641","ObjID":529303960,"tmModify":"2026/06/18 11:28:44","ParentID":48849431,"Object":
+                    ,{"Type":7,"SrvID":"5583731889521714641","ObjID":529303960,"tmModify":"2026/06/26 15:40:55","ParentID":48849431,"Object":
                         {"Name":"8.于家务辖区边界站","Type":7,"Comment":"北京市通州区崔各庄路 于家务乡生态环境事务中心","ObjectDetail":
                             {"Lat":39.69110950,"Lng":116.71456423,"Gcj02":0,"Obj3dView":
                                 {"ViewLng":0.00000000,"ViewLat":0.00000000,"RotateX":0.00000000,"RotateZ":0.00000000,"EyeToView":0,"Alt":0,"AltType":0,"ToGround":0,"Order":0,"LineWid":0,"AltFloat":0,"RelateModel":0,"LineClr":0,"Gcj02":1},
                                     "Altitude":0.00000000,"EditMode":0,"OverlayIdx":0,"TxtType":1,"ShowLevel":1,"ShowLevelMax":0,"TimeUncertain":0,"SignEvent":
                                 {"Radius":0,"ShowClr":0
                                 },"SignPic":
-                                {"SignPic":4,"AlignFlag":0,"SignClr":0,"PicScale":0,"SignPicNum":0,"SignPicNumOffx":0,"SignPicNumOffy":0,"SignPicNumClr":0,"SignPicNumSize":0
+                                {"SignPic":6,"AlignFlag":0,"SignClr":0,"PicScale":0,"SignPicNum":0,"SignPicNumOffx":0,"SignPicNumOffy":0,"SignPicNumClr":0,"SignPicNumSize":0
                                 },"TxtShowSta":0,"TxtShowStaSet":0
                         }
                     }
@@ -125,7 +125,7 @@
                 }
             }
         }
-        ,{"Type":30,"ObjID":1622890164,"ParentID":17990678,"SrvID":"4756803407013518186","tmModify":"2026/06/26 14:12:19","Object":
+        ,{"Type":30,"ObjID":1622890164,"ParentID":17990678,"SrvID":"4756803407013518186","tmModify":"2026/06/26 15:41:55","Object":
             {"Name":"15x河道站","Type":30,"ObjectDetail":
                 {"Child":15,"LoadOk":1,"SaveMerge":0,"Group":0,"AutoLoad":1,"ShowLevel":1,"ShowLevelMax":0,"Share":0,"ReadOnly":0,"NotHotId":0,"Bind":0,"BindCheck":0,"Link":0,"LinkAutoCheck":0,"ChildiOverlay":0,"LineClr":0,"LineAlpha":0,"LineType":0,"LineWid":0,"LinkUrl":"","Relate":0,"ObjChildren":[
                     {"Type":7,"SrvID":"958235507643680689","ObjID":2025073823,"tmModify":"2026/06/18 10:53:08","ParentID":1622890164,"Object":
