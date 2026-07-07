@@ -177,7 +177,7 @@
                     }
                     }
                     ,{"Type":7,"SrvID":"4342395676284268137","ObjID":1698733065,"tmModify":"2026/07/07 09:49:16","ParentID":949553713,"Object":
-                        {"Name":"5.新华街道","Type":7,"Comment":"新华街道办事处\r\n","ObjectDetail":
+                        {"Name":"5.新华街道办","Type":7,"Comment":"新华街道办事处\r\n","ObjectDetail":
                             {"Lat":39.90952568,"Lng":116.65875807,"Gcj02":0,"Obj3dView":
                                 {"ViewLng":0.00000000,"ViewLat":0.00000000,"RotateX":0.00000000,"RotateZ":0.00000000,"EyeToView":0,"Alt":0,"AltType":0,"ToGround":0,"Order":0,"LineWid":0,"AltFloat":0,"RelateModel":0,"LineClr":0,"Gcj02":1},
                                     "Altitude":0.00000000,"EditMode":0,"OverlayIdx":0,"TxtType":1,"ShowLevel":1,"ShowLevelMax":0,"TimeUncertain":0,"SignEvent":
